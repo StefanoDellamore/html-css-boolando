@@ -54,7 +54,6 @@ a {
 .container-main {
     width: 80%;
     margin: 0 auto;
-    background-color: blanchedalmond;
     text-align: center;
     flex-wrap: nowrap;
    
@@ -66,7 +65,6 @@ a {
     margin: 5px ;
     position: relative;
     display: inline-block;
-    background-color: aqua;
 }
 
 .container-img {
@@ -146,7 +144,7 @@ a {
     background-image: url(img/2.webp);
 }
 
-.container-img2:hover {
+.img2:hover {
     background-image: url(img/2b.webp);
 }
 
@@ -155,7 +153,7 @@ a {
     background-image: url(img/3.webp);
 }
 
-.container-img3:hover {
+.img3:hover {
     background-image: url(img/3b.webp);
 }
 
@@ -164,7 +162,7 @@ a {
     background-image: url(img/4.webp);
 }
 
-.container-img4:hover {
+.img4:hover {
     background-image: url(img/4b.webp);
 }
 
@@ -173,7 +171,7 @@ a {
     background-image: url(img/5.webp);
 }
 
-.container-img5:hover {
+.img5:hover {
     background-image: url(img/5b.webp);
 }
 
@@ -181,7 +179,7 @@ a {
     background-image: url(img/6.webp);
 }
 
-.container-img6:hover {
+.img6:hover {
     background-image: url(img/6b.webp);
 }
 
