@@ -185,14 +185,37 @@ a {
 
 /* footer */
 
+.background {
+    background-color: black;
+}
+
+
 .container-footer {
     margin: 0 auto;
-    width: 80%;
+    width: 65%;
     height: 50px;
-    background-color: blue;
+    background-color: black;
     justify-content: space-between;
     align-items: center;
 }
+
+.text-footer > h2, a {
+    color: white;
+    padding: 2px;
+}
+
+.text-footer > h2 {
+    font-size: 14px;
+}
+
+.loghi-footer {
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    padding: 2px;
+}
+
+
 
 
 
