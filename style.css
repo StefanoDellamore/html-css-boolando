@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.flex {
+    display: flex;
+}
+
+
+/* header */
+
+.container-header {
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    background-color: orange;
+}
+
+
+
+.left, .centre, .right {
+    border: 1px dashed black;
+    padding: 10px;
+}
+
