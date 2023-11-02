@@ -38,11 +38,14 @@ a {
     background-size: cover;
 }
 
-.loghi-web > a {
+.loghi-web > a{
     color: white;
     font-size: 10px;
     margin-right: 5px;
 }
+
+
+
 
 /* main */
 
@@ -72,6 +75,10 @@ a {
     height: 85%;
     background-image: url(img/1.webp);
     background-size: cover;
+}
+
+.container-img:hover {
+    background-image: url(img/1b.webp);
 }
 
 .discount {
@@ -126,6 +133,51 @@ a {
 
 .text-decoration {
     text-decoration: line-through;
+}
+
+/* Img-main */
+
+.img2 {
+    background-image: url(img/2.webp);
+}
+
+.container-img2:hover {
+    background-image: url(img/2b.webp);
+}
+
+
+.img3 {
+    background-image: url(img/3.webp);
+}
+
+.container-img3:hover {
+    background-image: url(img/3b.webp);
+}
+
+
+.img4 {
+    background-image: url(img/4.webp);
+}
+
+.container-img4:hover {
+    background-image: url(img/4b.webp);
+}
+
+
+.img5 {
+    background-image: url(img/5.webp);
+}
+
+.container-img5:hover {
+    background-image: url(img/5b.webp);
+}
+
+.img6 {
+    background-image: url(img/6.webp);
+}
+
+.container-img6:hover {
+    background-image: url(img/6b.webp);
 }
 
 /* footer */
