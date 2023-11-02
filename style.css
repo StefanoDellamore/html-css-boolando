@@ -29,14 +29,18 @@
 
 
 .container-main {
-    width: 1000px; 
+    margin: 0 auto;
+    width: 80%; 
     background-color: red;
     text-align: center;
+    flex-wrap: nowrap;
+   
 }
 
 .item {
-    width: 150px;
-    height: 300px;
+    width: calc(80% / 3 - 20px);
+    height: 250px;
+    margin: 5px ;
     position: relative;
     display: inline-block;
     background-color: aqua;
