@@ -46,3 +46,16 @@
     background-color: aqua;
 }
 
+/* footer */
+
+.container-footer {
+    margin: 0 auto;
+    width: 80%;
+    height: 50px;
+    background-color: blue;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
