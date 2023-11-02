@@ -104,6 +104,11 @@ a {
     padding: 1px;
 }
 
+.singol {
+    left: 0;
+    margin: 0;
+}
+
 .fa-heart {
     position: absolute;
     top: 5px;
