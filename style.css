@@ -19,10 +19,26 @@
     background-color: orange;
 }
 
-
-
 .left, .centre, .right {
     border: 1px dashed black;
     padding: 10px;
+}
+
+/* main */
+
+
+
+.container-main {
+    width: 1000px; 
+    background-color: red;
+    text-align: center;
+}
+
+.item {
+    width: 150px;
+    height: 300px;
+    position: relative;
+    display: inline-block;
+    background-color: aqua;
 }
 
